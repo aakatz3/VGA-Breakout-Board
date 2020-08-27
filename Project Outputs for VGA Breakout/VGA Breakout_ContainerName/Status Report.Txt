@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [VGA Breakout.PcbDoc]
+   Generated File[VGA Breakout.GTO]
+   Generated File[VGA Breakout.GTS]
+   Generated File[VGA Breakout.GTL]
+   Generated File[VGA Breakout.GBL]
+   Generated File[VGA Breakout.GBS]
+   Generated File[VGA Breakout.GBO]
+   Generated File[VGA Breakout.GM1]
+   Generated File[VGA Breakout.EXTREP]
+   Generated File[VGA Breakout.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 1:09:53 PM On 8/27/2020

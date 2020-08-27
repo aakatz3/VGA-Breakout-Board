@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=TP? NewDesignator=BLUE
+Change Component Designator: OldDesignator=TP? NewDesignator=GND
+Change Component Designator: OldDesignator=TP? NewDesignator=GREEN
+Change Component Designator: OldDesignator=TP? NewDesignator=HSYNC
+Change Component Designator: OldDesignator=TP? NewDesignator=RED
+Change Component Designator: OldDesignator=TP? NewDesignator=VSYNC
+Added Member To Class: ClassName=VGA Breakout Member=Component GND Turret Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component GREEN Compact Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component HSYNC Compact Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component J2 9 contacts Male header
+Added Member To Class: ClassName=VGA Breakout Member=Component RED Compact Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component VSYNC Compact Test Point

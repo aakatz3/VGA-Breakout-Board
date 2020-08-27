@@ -1,0 +1,124 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Added Component: Designator=J3(5-146281-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tycoelectronics.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F146281%7FF2%7Fpdf%7FEnglish%7FENG_CD_146281_F2.pdf%7F5-146281-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Octopart Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://octopart.com/partsearch/#search/requestData&q=5-146281-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Product Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.te.com/catalog/pn/en/5-146281-2?RQPN=5-146281-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Con Hdr Male 2contacts horizontal 1X2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tyco Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5-146281-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Options"; Value = "Breakaway Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5-146281-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "5-146281-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100in"; VariantName = "[No Variations]"
+Added Component: Designator=RSVD1(TEST-VIA)
+Add component (AddParameter): Name = "P/N"; Value = "TEST-VIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "TEST-VIA"; VariantName = "[No Variations]"
+Added Component: Designator=RSVD2(TEST-VIA)
+Add component (AddParameter): Name = "P/N"; Value = "TEST-VIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "TEST-VIA"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(5121)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/pdfs/M55p51.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Test Pt TH 5.6mmHt 3.2mmBase Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "5121"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(1562-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/pdfs/M55p127.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Test Pt TH 4.0mmHt 3.2mmBase 2.9mmTail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "1562-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "1562-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "1562-X"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(5007)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/pdfs/M55p51.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Test Pt TH 5.6mmHt 3.2mmBase White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "5007"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(5005)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/pdfs/M55p51.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Test Pt TH 5.6mmHt 3.2mmBase Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(5122)
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/pdfs/M55p51.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Test Pt TH 5.6mmHt 3.2mmBase Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "5122"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(5006)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/pdfs/M55p51.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Test Pt TH 5.6mmHt 3.2mmBase Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "5006"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=J3-1
+Added Pin To Net: NetName=SCL Pin=J3-2
+Added Pin To Net: NetName=BLUE Pin=TP?-1
+Added Pin To Net: NetName=GND Pin=TP?-1
+Added Pin To Net: NetName=GREEN Pin=TP?-1
+Added Pin To Net: NetName=HSYNC Pin=TP?-1
+Added Pin To Net: NetName=RED Pin=TP?-1
+Added Pin To Net: NetName=VSYNC Pin=TP?-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(0, 191, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Lime
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(16, 16, 16)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(240, 240, 240)
+Added Pin To Net: NetName=RES1 Pin=J1-4
+Added Pin To Net: NetName=RES1 Pin=RSVD1-1
+Added Net: Name=RES1
+Added Pin To Net: NetName=RES2 Pin=J1-11
+Added Pin To Net: NetName=RES2 Pin=RSVD2-1
+Added Net: Name=RES2
+Added Member To Class: ClassName=VGA Breakout Member=Component J3 2 contacts Male header
+Added Member To Class: ClassName=VGA Breakout Member=Component RSVD1 TEST-VIA
+Added Member To Class: ClassName=VGA Breakout Member=Component RSVD2 TEST-VIA
+Added Member To Class: ClassName=VGA Breakout Member=Component TP? Compact Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component TP? Turret Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component TP? Compact Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component TP? Compact Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component TP? Compact Test Point
+Added Member To Class: ClassName=VGA Breakout Member=Component TP? Compact Test Point

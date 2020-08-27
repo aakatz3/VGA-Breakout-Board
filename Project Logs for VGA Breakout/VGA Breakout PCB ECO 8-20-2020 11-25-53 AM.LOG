@@ -1,0 +1,70 @@
+Added Component: Designator=J1(PH1-09-UA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.adam-tech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.adam-tech.com/downloader.php?p=PH1-XX-UA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Con Hdr Male 9contacts vertical 9x1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "PH1-09-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "PH1-09-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "THT 9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100in"; VariantName = "[No Variations]"
+Added Component: Designator=J2(618015330923)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "#https://www.we-online.com/web/en/wuerth_elektronik/start.php#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "#https://katalog.we-online.de/em/datasheet/618015330923.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Con D-Sub TH F HD15 Hor F-Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Jackscrew"; Value = "Mating Side, Female Screwlock (4-40)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "618015330923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15HD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "618015330923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "618015330923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shell Finish"; Value = "Steel, Nickel Plated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shell Size"; Value = "(DE, E) High Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "WR-DSUB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J1-8
+Added Pin To Net: NetName=+5 Pin=J2-9
+Added Net: Name=+5
+Added Pin To Net: NetName=BLUE Pin=J1-3
+Added Pin To Net: NetName=BLUE Pin=J2-3
+Added Net: Name=BLUE
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-M1
+Added Pin To Net: NetName=GND Pin=J2-M2
+Added Net: Name=GND
+Added Pin To Net: NetName=GREEN Pin=J1-2
+Added Pin To Net: NetName=GREEN Pin=J2-2
+Added Net: Name=GREEN
+Added Pin To Net: NetName=HSYNC Pin=J1-4
+Added Pin To Net: NetName=HSYNC Pin=J2-13
+Added Net: Name=HSYNC
+Added Pin To Net: NetName=RED Pin=J1-1
+Added Pin To Net: NetName=RED Pin=J2-1
+Added Net: Name=RED
+Added Pin To Net: NetName=SCL Pin=J1-7
+Added Pin To Net: NetName=SCL Pin=J2-15
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J1-6
+Added Pin To Net: NetName=SDA Pin=J2-12
+Added Net: Name=SDA
+Added Pin To Net: NetName=VSYNC Pin=J1-5
+Added Pin To Net: NetName=VSYNC Pin=J2-14
+Added Net: Name=VSYNC
+Added Class: Name=VGA Breakout
